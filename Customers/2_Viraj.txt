@@ -1,0 +1,9 @@
+Account Number: 2
+Name: Viraj
+Phone no: 9999999999
+Password: 123456789
+City: Pathri
+Unique ID: 2222222222
+Balance: 2500
+
+27/08/21  15:22:42	500 received from Yash

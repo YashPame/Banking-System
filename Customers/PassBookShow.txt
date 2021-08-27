@@ -1,0 +1,11 @@
+Account Number: 1
+Name: Yash
+Phone no: 8888888888
+Password: 123456789
+City: Pathri
+Unique ID: 123456789
+Balance: 6300
+
+27/08/21  15:22:21	Added Amount 5000
+27/08/21  15:22:29	Withdrawn Amount 200
+27/08/21  15:22:42	500 transferred to Viraj, Account No. 2
